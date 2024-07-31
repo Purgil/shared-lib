@@ -1,5 +1,6 @@
-package io.purgil.sharedlib.resorver.dto
+package io.purgil.sharedlib.resorver
 
+import io.purgil.sharedlib.dto.LoginUser
 import org.springframework.core.MethodParameter
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.BindingContext
